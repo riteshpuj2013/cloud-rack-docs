@@ -5,4 +5,4 @@ This software will use Openstack Cloud for providing File Sharing Services.
 
 The basic system diagram is :
 
-![Screenshot](https://www.dropbox.com/s/kdr994j6t7xtjck/Block%20Diagram.png)
+![Screenshot](https://github.com/dguitarbite/cloud-rack/blob/master/Diagrams/Block%20Diagram.png?raw=true)
