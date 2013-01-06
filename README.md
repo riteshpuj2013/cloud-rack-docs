@@ -13,4 +13,4 @@ Openstack Cloud Modlue Breakdown (IaaS):
 
 ![Screenshot](https://raw.github.com/dguitarbite/cloud-rack/master/Diagrams/IaaS%20Block%20Diagram.jpeg)
 
-## [[test.md]]
+## [[/test.md]]
