@@ -10,4 +10,5 @@ This is a basic plan so that if in case i forget what I planned rite now ... whi
 8) FInish with testing.
 9) Add Delta Compression algorithm.
 10) Create custom java - zip program to compress the folders.
-11) Add support for windows.
+11) Windows support is not going to be the feature for the project under the mapped timelies ...
+    Add support for windows ...
