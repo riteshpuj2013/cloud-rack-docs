@@ -1,9 +1,10 @@
 This is a basic plan so that if in case i forget what I planned rite now ... which seems sensible to me for now.
 
--[] Compression Modules.
-- [] Socket Connections
-- [] FTP over sockets
-- [] Configure Openstack
+- [x] Compression Modules.
+- [x] Socket Connections
+- [x] FTP over sockets
+- [x] Deploy OpenStack Sandbox
+- [x] Configure Openstack
 - [] Finish SaaS and PaaS communication protocol.
 - [] Merge into the cloud.
 - [] Add web interface.
