@@ -6,14 +6,9 @@ This software will use Openstack Cloud for providing File Sharing Services.
 
 The basic system diagram is :
 
-![Screenshot](https://raw.github.com/cloud-rack/cloud-rack-docs/master/Diagrams/System%20Block%20Diagram.png)
+![Screenshot](https://raw.github.com/cloud-rack/cloud-rack-docs/master/Diagrams/Block%20Diag-3D.png)
 
 
 Openstack Cloud Modlue Breakdown (IaaS):
 
 ![Screenshot](https://raw.github.com/cloud-rack/cloud-rack-docs/master/Diagrams/IaaS%20Block%20Diagram.jpeg)
-
-
-A more clear system block diag - in 3D :
-
-![Screenshot](https://raw.github.com/cloud-rack/cloud-rack-docs/master/Diagrams/Block%20Diag-3D.png)
