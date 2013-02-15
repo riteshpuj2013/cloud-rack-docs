@@ -1,7 +1,8 @@
 Project Plan/Progress - Rough Sketch
 =====================
 
-
+Finally Prototype Platform will be Posix
+--------------
 
 This is a basic plan so that if in case i forget what I planned rite now ... which seems sensible to me for now.
 
@@ -29,6 +30,6 @@ This is a basic plan so that if in case i forget what I planned rite now ... whi
 +---------------------------------------------------------------+--------------------------------------------------------------------+
 |               - [] Add Delta Compression algorithm.           |              - [] Add Delta Compression algorithm.                 |
 +---------------------------------------------------------------+--------------------------------------------------------------------+
-|  - [] Create custom java zip program to compress the folders. |  -[] Create custom python zip program to compress the folders.     |
+|  - [] Create custom java zip program to compress the folders. |  - [] Create custom python zip program to compress the folders.    |
 +---------------------------------------------------------------+--------------------------------------------------------------------+
 
