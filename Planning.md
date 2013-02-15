@@ -40,3 +40,4 @@ This is a basic plan so that if in case i forget what I planned rite now ... whi
 +---------------------------------------------------------------+--------------------------------------------------------------------+
 |  - [] Create custom java zip program to compress the folders. |  -[] Create custom python zip program to compress the folders.     |
 +---------------------------------------------------------------+--------------------------------------------------------------------+
+
