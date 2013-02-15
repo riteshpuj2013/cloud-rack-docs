@@ -3,15 +3,6 @@ Project Plan/Progress - Rough Sketch
 
 
 
-+---------+-----------+
-|test     | table     |
-+=========+===========+
-|testinguu|pandaingu  |
-+---------+-----------+
-
-
-
-
 This is a basic plan so that if in case i forget what I planned rite now ... which seems sensible to me for now.
 
 
