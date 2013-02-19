@@ -59,7 +59,7 @@ Created a new subnet:
 | tenant_id        | 26ff48bef5cd4e25a2511666b5effe0c             |
 +------------------+----------------------------------------------+
 
-* Add Router to the Subnet and the network:
+* Add Router tenant:
 
 Created a new router:
 
