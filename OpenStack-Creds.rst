@@ -261,6 +261,9 @@
 | f1f250cda5524f40a1a1c4403797a48e | cloud-rack-user |   True  |    cloud@rack.com    |
 +----------------------------------+-----------------+---------+----------------------+
 
+4. Regester Cloud Images in Glance
+--------------
+
 * Ubuntu Server - Precise amd64 cloud image 
 
 +------------------+--------------------------------------+
